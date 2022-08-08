@@ -21,3 +21,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Because of AWS SDK defect, this command includes a CI=false option.
+
+## Future Plan
+
+Our iOS Project for Shizuku Launcher is coming!
